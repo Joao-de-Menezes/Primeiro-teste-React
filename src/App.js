@@ -12,7 +12,7 @@ function App() {//o react pega uma função JavaScript que retorna html, que vai
         <div className="wrap-login">
           <form className="login-form">
             
-            <span className="login-form-title">Bem vindo</span>
+            <span className="login-form-title">Bem vindo!</span>
 
             <span className="login-form-title">
               <img src={logo_sem_escrita} alt="UNICEPLAC"/>
